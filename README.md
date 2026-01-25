@@ -1,5 +1,4 @@
 # Internship
-# CODSOFT
 # CODSOFT Internship Tasks-Java
 
 This repository contains all tasks completed during my CodSoft Internship.
