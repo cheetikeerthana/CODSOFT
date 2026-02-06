@@ -38,7 +38,7 @@ It also checks whether the student has failed in any subject and handles invalid
 - Basic arithmetic operations
 
 ## Project Structure
-Task2
+Task-2
    StudentGradeCalculator.java
    README.md
 
